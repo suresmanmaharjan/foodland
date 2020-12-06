@@ -1,0 +1,293 @@
+
+@media (min-width: 1200px) {
+    body{
+        padding-top: 80px;
+    }
+    .lg-text-center {
+        text-align:center
+    }
+
+    footer{
+        padding:60px 0;
+        padding-bottom:15px;
+    }
+}
+
+
+@media (max-width: 1199px) {
+    
+    .md-text-center {
+        text-align: center
+    }
+    
+    footer{
+        padding:40px 0;
+        padding-bottom:15px;
+    }
+}
+
+@media (max-width: 991px) {
+
+    .sm-text-center {
+        text-align: center
+    }
+
+    .lgx-single-offer {
+        padding: 0 8%
+    }
+
+    .lgx-single-offer .offer-info {
+        width: 100%;
+        position: static;
+        min-height: auto;
+        padding: .5rem 4.2rem 4.2rem
+    }
+
+    .lgx-footer-area {
+        display: inline-block
+    }
+
+    .lgx-footer-area .lgx-footer-single {
+        width: 50%;
+        float: left;
+        min-height: 230px
+    }
+    .lgx-grid-wrapper-gap {
+        margin-left: 0;
+        margin-right: 0
+    }
+    .lgx-header .lgx-navbar .lgx-logo-fixed a img {
+        max-width: 100px;
+        left: 3rem
+    }
+
+    .lgx-header .lgx-navbar .lgx-logo-fixed {
+        width: 100px
+    }
+
+    .lgx-navbar .lgx-nav li a.lgx-btn {
+        padding: .8rem 1rem!important
+    }
+
+    .lgx-header .menu-onscroll .lgx-navbar .lgx-logo-fixed a img {
+        max-width: 100px
+    }
+
+    .lgx-header-fixed-container .lgx-navbar{
+        padding: 10px 0
+    }
+
+    .lgx-header .lgx-navbar .lgx-logo a img {
+        max-width: 170px
+    }
+
+    .lgx-header .lgx-navbar .lgx-nav li a,.lgx-header .menu-onscroll .lgx-navbar .lgx-nav li a {
+        font-size: 12px;
+        padding: 30px 5px
+    }
+
+    .lgx-header .lgx-nav-right,.lgx-header .menu-onscroll .lgx-nav-right {
+        border-left: 0;
+        padding-left: 1rem
+    }
+
+    .lgx-header-position-fixed .navbar-collapse {
+        margin-top: 16px
+    }
+
+    .lgx-header-fixed-container-gap .navbar-collapse {
+        margin-top: 0
+    }
+
+    .lgx-header .lgx-navbar .lgx-logo {
+        margin-left: 10px
+    }
+    .lgx-grid-item {
+        width:50%
+    }
+}
+
+@media (max-width: 767px) {
+    .header-top .contact,.header-top .header-top-inner .right-menu {
+        text-align:center
+    }
+
+    .lgx-header .lgx-navbar .lgx-nav li a,.lgx-header .menu-onscroll .lgx-navbar .lgx-nav li a {
+        padding: 5px 10px
+    }
+
+    .lgx-header-position {
+        background: #282b2e
+    }
+
+    .lgx-header-position-fixed {
+        position: static;
+        margin-top: 0
+    }
+
+    .lgx-header .lgx-navbar .lgx-logo,.lgx-header .lgx-navbar .lgx-logo-default {
+        margin-top: 0
+    }
+
+
+    .lgx-navbar .lgx-nav li a.lgx-btn {
+        display: inline-block
+    }
+
+    .lgx-header .lgx-navbar .lgx-logo a img,.lgx-header .menu-onscroll .lgx-navbar .lgx-logo a img {
+        max-width: 180px
+    }
+
+    .lgx-navbar .lgx-nav li a.lgx-btn{
+        margin-top: 8px;
+    }
+
+    .navbar-default .navbar-toggle {
+        border-color: transparent;
+        margin-top: 11px
+    }
+
+    .navbar-default .navbar-toggle span {
+        background-color: #b98d36!important;
+        width: 26px;
+        height: 3px
+    }
+
+    .navbar-default .navbar-toggle:focus,.navbar-default .navbar-toggle:hover {
+        background-color: #b98d36
+    }
+
+    .navbar-default .navbar-toggle:focus span,.navbar-default .navbar-toggle:hover span {
+        background-color: #fff!important
+    }
+
+    .lgx-header .lgx-container-fluid,.navbar-default .navbar-collapse,.navbar-default .navbar-form {
+        margin: 0 15px
+    }
+
+    .section-gap {
+        padding: 0!important
+    }
+
+    .lgx-header .lgx-navbar .lgx-logo-fixed a img,.lgx-header .menu-onscroll .lgx-navbar .lgx-logo-fixed a img {
+        max-width: 80px;
+        left: 1rem
+    }
+
+    .lgx-header-position-fixed .navbar-collapse,.lgx-header-position-fixed .navbar-default .navbar-form {
+        margin-top: 5px
+    }
+
+    .lgx-header .lgx-navbar .lgx-nav {
+        margin-top: 3rem
+    }
+
+    .lgx-header-fixed-container .lgx-navbar .lgx-logo-default,.lgx-header-fixed-container-gap .lgx-navbar .lgx-logo-default,.lgx-header-fixed-container-gap .navbar-collapse {
+        margin-top: 0
+    }
+
+    .lgx-header-fixed-container .lgx-navbar {
+        background: 0 0;
+        padding: 10px 0
+    }
+
+    .lgx-header-fixed-container-gap .lgx-navbar {
+        background: 0 0;
+        padding: 10px 0;
+        margin-top: 0
+    }
+
+    .header-top .contact ul li {
+        margin-top: 4px
+    }
+
+    .lgx-header .lgx-nav-right,.lgx-header .menu-onscroll .lgx-nav-right {
+        border-left: 0;
+        padding-left: 0
+    }
+
+    .lgx-header .lgx-nav-right {
+        margin: 19px 0 30px;
+        padding-left: 0
+    }
+
+    .xs-text-center {
+        text-align: center
+    }
+
+    .xs-text-right {
+        text-align: right
+    }
+
+    .xs-text-left {
+        text-align: left
+    }
+
+
+
+    .xs-float-none {
+        float: none
+    }
+ 
+    .lgx-footer-bottom .lgx-copyright {
+        width: 100%;
+        margin-bottom: 1.5rem
+    }
+
+    .lgx-footer-white .lgx-social-footer,.lgx-social-footer {
+        width: 100%;
+        text-align: center
+    }
+
+    .lgx-about .lgx-inner,.lgx-inner {
+        padding: 8rem 0
+    }
+
+    .lgx-heading {
+        margin-bottom: 4.2rem
+    }
+
+    
+    .lgx-tab-another .lgx-menu-container {
+        padding-bottom: 0
+    }
+
+   
+
+    .lgx-header .lgx-navbar .lgx-collapse {
+        float: none;
+        border-color: transparent
+    }
+
+    .lgx-header .lgx-navbar .lgx-logo-fixed a img,.lgx-header .menu-onscroll .lgx-navbar .lgx-logo-fixed a img {
+        max-width: 70px
+    }
+
+    .navbar-default .navbar-collapse,.navbar-default .navbar-form {
+        border-color: transparent
+    }
+    .lgx-btn {
+        font-size:12px;
+        padding: .6rem 2rem;
+        letter-spacing: 0
+    }
+    .lgx-grid-item {
+        width:100%
+    }
+
+
+    .lgx-filter-area .lgx-filter .active a,.lgx-filter-area .lgx-filter li a{
+        padding: .6rem 1.6rem;
+        margin-bottom: .5rem
+    }
+
+    .lgx-filter-area .lgx-filter .active a:before {
+        display: none
+    }
+
+    footer .logo{
+            display: none;
+    }
+}
+
+
